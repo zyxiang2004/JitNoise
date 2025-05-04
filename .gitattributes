@@ -1,0 +1,4 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+ckpt_90.pkl filter=lfs diff=lfs merge=lfs -text
