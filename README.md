@@ -35,7 +35,7 @@
 - **无需单独运行**：[prepare_cifar10.py](https://github.com/zyxiang2004/JitNoise/blob/main/data/prepare_cifar10.py)
 ### 4️⃣训练好的模型
 - **训练了1000epochs的JitNoise模型**：[jittor_cifar10_1000epochs.jt](https://github.com/zyxiang2004/JitNoise/blob/main/jittor_cifar10_1000epochs.jt)
-- **训练了100epochs的cJitNoise模型**：[ckpt_90.pkl](https://github.com/zyxiang2004/JitNoise/blob/main/ckpt_90.pkl)
+- **训练了90epochs的cJitNoise模型**：[ckpt_90.pkl](https://github.com/zyxiang2004/JitNoise/blob/main/ckpt_90.pkl)
 ## 📊 训练监控
 查看训练过程指标记录：
 - **[三方日志对齐分析]**：[zyxiang2004.ipynb](https://github.com/zyxiang2004/JitNoise/blob/main/zyxiang2004.ipynb)
